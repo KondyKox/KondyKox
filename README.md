@@ -8,7 +8,7 @@ I'm junior developer who is trying to make oryginal projects and always trying t
 
 * 🖥️  See my portfolio at [my personal website](http://konradciesielski.pl/)
 * ✉️  You can contact me at [kondykox@gmail.com](mailto:kondykox@gmail.com)
-* 🚀  I'm currently working on [Alkopoly](http://github.com/KondyKox/Alkopoly)
+* 🚀  I'm currently working on [Rowerowe Narty Mobile](https://github.com/KarmelGaming/Rowerowe-Narty-Mobile)
 
 ### Skills
 
