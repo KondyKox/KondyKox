@@ -1,9 +1,6 @@
 ## <div align="center">👋 I'm Konrad, but everyone call me Kondy.😎</div>  
   
 
-- 🔭 I’m currently working on [graboga.pl 2.0](https://github.com/KondyKox/graboga.pl)  
-  
-
 - 🦾 I’m currently learning NextJS  
   
 
